@@ -1,0 +1,5 @@
+<Project>
+	<PropertyGroup>
+		<v8so>..\..\..\..\..\Downloads\v8so-2024\v8so</v8so>
+	</PropertyGroup>
+</Project>

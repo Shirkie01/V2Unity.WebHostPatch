@@ -1,0 +1,6 @@
+@V2Unity.API_HostAddress = http://localhost:5177
+
+GET {{V2Unity.API_HostAddress}}/users/
+Accept: application/json
+
+###
