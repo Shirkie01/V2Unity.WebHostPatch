@@ -20,9 +20,10 @@ V2Unity.WebHostPatch.dll
 Run the game!
 
 ### Configuration
-The default URL is `shirkie01.com`. If this site no longer is able to host the server to allow V2Unity multiplayer, clients can change which host to use by changing the URL value in the `v8so/BepInEx/config/V2Unity.WebHostPatch.cfg` file.
+The default URL is `https://v2unityapi20250224101209.azurewebsites.net/`. If this site no longer is able to host the server to allow V2Unity multiplayer, clients can change which host to use by changing the URL value in the `v8so/BepInEx/config/V2Unity.WebHostPatch.cfg` file.
 
-![image](https://github.com/user-attachments/assets/3d1a6b9a-57fb-4307-a2a5-dd1cb17c6450)
+![image](https://github.com/user-attachments/assets/4c139425-e1d7-41bc-9bc0-d232e0c5c649)
+
 
 # Server installation
 The V2Unity.API project is an ASP.NET Core Web API project and can be hosted on any .NET-compatible server.
