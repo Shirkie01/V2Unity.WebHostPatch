@@ -19,7 +19,7 @@ namespace V2Unity.WebHostPatch
             // Set the logger so other classes can use it
             Log = Logger;
 
-            string defaultURL = "shirkie01.com";
+            string defaultURL = "v2unity.shirkie01.com";
 
 #if DEBUG
             defaultURL = "localhost";
