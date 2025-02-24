@@ -1,5 +1,5 @@
 # V2Unity.WebHostPatch
-V2Unity multiplayer has been effectively shut down by the original developer choosing to not renew the domain host. This repo provides both a client patch to redirect the URLs and a web api to allow anyone to serve as host.
+V2Unity multiplayer has been effectively shut down by a failure to renew the domain host. This repo provides both a client patch to redirect the URLs and a web api to allow anyone to serve as host.
 
 ## Client Patch Installation
 Extract [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2) into the v8so root folder.
