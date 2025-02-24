@@ -19,7 +19,7 @@ namespace V2Unity.WebHostPatch
             // Set the logger so other classes can use it
             Log = Logger;
 
-            string defaultURL = "v2unity.shirkie01.com";
+            string defaultURL = "https://v2unityapi20250224101209.azurewebsites.net/";
 
 #if DEBUG
             defaultURL = "localhost";
